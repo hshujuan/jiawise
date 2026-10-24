@@ -1,0 +1,8 @@
+{
+  "entry": "index.html",
+  "managedCronJobs": [],
+  "name": "Jiawise",
+  "platformVersion": 15,
+  "runtime": "static",
+  "slug": "poc"
+}

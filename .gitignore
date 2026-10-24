@@ -1,0 +1,5 @@
+audits/
+.harness/
+.space-build/
+.space-build-cloudflare/
+.space-build-cvm/
